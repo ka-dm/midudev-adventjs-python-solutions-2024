@@ -2,9 +2,11 @@
 
 Este repositorio contiene mis soluciones en **Python** a los desafíos de **AdventJS 2024**. Cada reto está diseñado para mejorar mis habilidades de programación, optimización y resolución de problemas.
 
+Puedes acceder a los desafíos en el sitio oficial de [AdventJS 2024](https://adventjs.dev/es), creado por **[midu.dev](https://midu.dev/)**.
+
 ## Descripción
 
-Cada carpeta dentro de este repositorio corresponde a un desafío individual del sitio [AdventJS](https://adventjs.dev/es/challenges/2024/4). Los desafíos están resueltos utilizando **Python**, siguiendo buenas prácticas de código y buscando soluciones eficientes.
+Cada carpeta dentro de este repositorio corresponde a un desafío individual del sitio [AdventJS](https://adventjs.dev/es). Los desafíos están resueltos utilizando **Python**, siguiendo buenas prácticas de código y buscando soluciones eficientes.
 
 ## Tecnologías Utilizadas
 
