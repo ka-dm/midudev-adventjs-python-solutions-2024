@@ -27,8 +27,7 @@ Si quieres contribuir, ¡haz un fork de este repositorio y envíame un pull requ
 
 ## Contacto
 
-- GitHub: [@tu_usuario](https://github.com/tu_usuario)
-- Twitter: [@midudev](https://twitter.com/midudev)
-- LinkedIn: [tu perfil](https://www.linkedin.com/in/tu-perfil/)
+- GitHub: [@ka-dm](https://github.com/ka-dm)
+- LinkedIn: [kevin-dm](https://www.linkedin.com/in/kevin-dm/)
 
 ¡Gracias por visitar el repositorio! 🚀
